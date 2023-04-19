@@ -1,0 +1,12 @@
+.header {
+    background-color: $first;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 12px;
+}
+.header__logo {
+    color: $third;
+    font-size: 48px;
+    padding: 12px;
+    text-align: center;
+}

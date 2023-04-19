@@ -1,0 +1,18 @@
+.footer {
+    background: $second;
+    color: $third;
+    margin-bottom: 24px;
+    padding: 24px;
+    border-radius: 12px;
+}
+.footer__content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: $first;
+    padding: 12px;
+    border-radius: 12px;
+}
+.footer__text {
+    font-size: 20px;
+}
